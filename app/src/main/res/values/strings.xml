@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Help</string>
+    <string name="large_text">
+        " For any help drop a mail at kartikdroid17@gmail.com giving your problem specifications.\n\n"
+
+        "We will reply with the solution as early as possible so be calm.\n"
+        "If the problem still persist then you can contact our technical team #########.\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
